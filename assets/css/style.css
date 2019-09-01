@@ -1,0 +1,16 @@
+/*body  {
+
+  /*background-image: url('../img/fondo-op20.jpg');
+
+
+}
+/*
+.card-columns {
+    column-count: 4;
+}
+
+@include media-breakpoint-down(md) {
+  .card-columns {
+      column-count: 3;
+  }
+}*/
